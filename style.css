@@ -21,6 +21,7 @@ main {
     background-color: rgb(59, 73, 83);
     color: #fff;
     border-radius: 5px;
+    padding-bottom: 20px;
 }
 
 
@@ -58,4 +59,15 @@ hr {
 
 span {
     color: rgb(29, 112, 21);
+}
+
+a {
+    text-decoration: none;
+    color: chartreuse;
+    transition: 0.3s;
+    margin-left: 20px;
+}
+
+a:hover {
+    color: rgb(211, 237, 224);
 }
